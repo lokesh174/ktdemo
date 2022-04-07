@@ -2,4 +2,4 @@ server:
   port: 8096
 spring:
   application:
-    name:Student
+    name: Student
